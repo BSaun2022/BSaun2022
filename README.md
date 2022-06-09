@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BSaun2022
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning from the Google Data Analytics Certificate courses
+- 🌱 I’m currently learning from the Google Data Analytics Certificate course
 - 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me LinkedIn
 
